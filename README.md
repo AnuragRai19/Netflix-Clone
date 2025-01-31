@@ -1,19 +1,24 @@
-Netflix Clone
+# Netflix Clone
 
 A simple Netflix clone built using HTML and CSS to replicate the UI of Netflix's homepage.
 
-Features
+## Features
 
-Responsive design for different screen sizes
+- Responsive design for different screen sizes
+- Header section with Netflix logo and navigation links
+- Hero banner with background image and call-to-action button
+- Footer section with links to important pages
 
-Header section with Netflix logo and navigation links
+## Technologies Used
 
-Hero banner with background image and call-to-action button
+- HTML5
+- CSS3 (Flexbox & Grid)
 
-Footer section with links to important pages
+## Contributing
 
-Technologies Used
+Feel free to submit pull requests to improve the project.
 
-HTML5
+## License
 
-CSS3 (Flexbox & Grid)
+This project is for educational purposes only and is not affiliated with Netflix.
+
